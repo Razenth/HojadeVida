@@ -9,6 +9,8 @@
     border: 1px solid black;
     height: 100vh;
     width: 100%;
+    gap: 3px;
+    background-color: white;
 }
 
 /* Left Side */
@@ -79,6 +81,7 @@
     font-size: 17.5px;
     height: 90%;
     width: 190px;
+    text-align: left;
 }
 
 .perfilInfoContainer img{
@@ -91,10 +94,12 @@
 .middle{
     border: 1px solid red;
     width: 33%;
-    background-color: rgb(241, 241, 237);
+    background-color: black;
     display: flex;
     justify-content: center;
     padding: 15px;
+    color: white;
+    
 }
 
 .middleSkills{
@@ -102,20 +107,23 @@
 }
 
 .skillsTitle{
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid white;
     width: 260px;
+}
+
+.skills{
+    padding: 10px;
 }
 
 .skillsP{
     background-color: black;
     color: rgb(255, 219, 14)
-    
-}
-.skillsLabel{
-    color: black;
-    background-color: white;
 }
 
+.python h1 i{
+    color: rgb(255, 219, 14);
+    
+}
 
 
 
