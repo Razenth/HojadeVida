@@ -552,12 +552,7 @@ footer{
         .infoDiv{
             align-items: center;
             font-size: 14px;
-            width: 350px;
-        }
-
-        .perfilProTitle{
-            font-size: 23px;
-            width: 350px;
+            width: 100%;
         }
 
         .profesionalProfile{
@@ -569,12 +564,14 @@ footer{
         }
 
         .perfilProTitle{
+            font-size: 23px;
             text-align: center;
+            width: 40%;
         }
 
         .perfilInfoContainer{
             align-items: center;
-            width: 500px;
+            width: auto;
         }
 
         .perfilParrafo{
