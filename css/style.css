@@ -38,7 +38,7 @@
     width: 190px;
     height: 190px;
     border-radius: 50%;
-    background-image: url(/images/miaFoto.jpeg); 
+    background-image: url(../images/miaFoto.jpeg); 
     background-position: center;
     background-size: cover; 
 }
